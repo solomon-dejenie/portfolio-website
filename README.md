@@ -6,44 +6,39 @@
 
 ## 🎓 Education
 
-**Bachelor of Science in Computer Science**  
-University Name, Graduation Year
+- **Bachelor of Science in Computer Science**  
+  University Name, Graduation Year (replace with actual)  
 
 ---
 
 ## 🏅 Certifications
 
-<p align="left">
-  <img src="images/ffe-badge.png" alt="FFE Badge" width="120" /> 
-  <img src="images/ffe-certificate.png" alt="FFE Certificate" width="150" />
-</p>
+- **FFE (Financial Fundamentals Expert) Badge**  
+- **FFE Certificate**  
 
-**Foundations of Financial Engineering (FFE) Badge & Certificate – WQU**
+![FFE Badge](link-to-your-badge-image)  
+![FFE Certificate](link-to-your-certificate-image)
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-<div align="center">
-
-| Project | Preview | GitHub Link | PDF Report |
-|---------|--------|------------|------------|
-| Financial Asset & Return Analysis | <img src="images/financial-asset.png" alt="Financial Asset" width="200"/> | [Repo](https://github.com/solomon-dejenie/financial-asset-return-analysis) | [PDF](link-to-report) |
-| Efficient Frontier & Sharpe Ratio | <img src="images/efficient-frontier.png" alt="Efficient Frontier" width="200"/> | [Repo](https://github.com/solomon-dejenie/efficient-frontier-sharpe) | [PDF](link-to-report) |
-| Portfolio Returns & Variance | <img src="images/portfolio-variance.png" alt="Portfolio Variance" width="200"/> | [Repo](https://github.com/solomon-dejenie/portfolio-returns-variance) | [PDF](link-to-report) |
-| Bond Yield Curve Analysis | <img src="images/bond-yield.png" alt="Bond Yield Curve" width="200"/> | [Repo](https://github.com/solomon-dejenie/bond-yield-curve-analysis) | [PDF](link-to-report) |
-| Geospatial Analysis Dashboard | <img src="images/geospatial.png" alt="Geospatial Dashboard" width="200"/> | [Repo](https://github.com/solomon-dejenie/geospatial-analysis-dashboard) | [PDF](link-to-report) |
-
-</div>
+| Project | Description | GitHub Link | PDF Report |
+|---------|-------------|------------|------------|
+| Financial Asset & Return Analysis | Analyze financial assets, calculate returns, and visualize portfolio performance | [Repo](https://github.com/solomon-dejenie/financial-asset-return-analysis) | [PDF](link-to-report) |
+| Efficient Frontier & Sharpe Ratio | Optimize portfolio using Efficient Frontier and Sharpe Ratio analysis | [Repo](https://github.com/solomon-dejenie/efficient-frontier-sharpe) | [PDF](link-to-report) |
+| Portfolio Returns & Variance | Evaluate portfolio returns and variance across multiple assets | [Repo](https://github.com/solomon-dejenie/portfolio-returns-variance) | [PDF](link-to-report) |
+| Bond Yield Curve Analysis | Analyze government bond yield curves and investment insights | [Repo](https://github.com/solomon-dejenie/bond-yield-curve-analysis) | [PDF](link-to-report) |
+| Geospatial Analysis Dashboard | Visualize financial and geospatial data using Python mapping tools | [Repo](https://github.com/solomon-dejenie/geospatial-analysis-dashboard) | [PDF](link-to-report) |
 
 ---
 
 ## 💻 Key Skills
 
-- Python, Pandas, NumPy, SQL, Excel  
-- Matplotlib, Seaborn, Plotly, Power BI  
-- Portfolio Returns, Sharpe Ratio, Risk Management, Bond Yield Curve  
-- Git, GitHub, Jupyter Notebook, Tableau  
+- **Programming & Analysis:** Python, Pandas, NumPy, SQL, Excel  
+- **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI  
+- **Financial Analytics:** Portfolio Returns, Sharpe Ratio, Risk Management, Bond Yield Curve  
+- **Other Tools:** Git, GitHub, Jupyter Notebook, Tableau  
 
 ---
 
@@ -57,14 +52,12 @@ University Name, Graduation Year
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=solomon-dejenie&show_icons=true&theme=dark" />
-</p>
+![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=solomon-dejenie&show_icons=true&theme=dark)
 
 ---
 
-### 🔗 Optional Enhancements
+## 🔗 Optional Enhancements
 
-- Add badges for Python, tools, or certifications using [Shields.io](https://shields.io/)  
-- Add more project screenshots for interactivity  
-- Keep layout clean and recruiter-friendly
+- Add badges for certifications, skills, and tools using [Shields.io](https://shields.io/)  
+- Include project preview images/screenshots for a polished look  
+- Keep sections concise and recruiter-friendly
