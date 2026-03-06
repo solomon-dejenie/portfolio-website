@@ -1,4 +1,4 @@
-# Solomon Dejenie Molla – Data Analytics Portfolio
+# Solomon Dejenie Molla
 
 **Data Analyst | Python | Financial Analytics**
 
@@ -6,29 +6,35 @@
 
 ## 🎓 Education
 
-- Bachelor of Science in Computer Science – University Name, Graduation Year
+**Bachelor of Science in Computer Science**  
+University Name, Graduation Year
 
 ---
 
 ## 🏅 Certifications
 
-- Foundations of Financial Engineering (FFE) – WQU  
-- FFE Badge & Certificate  
+<p align="left">
+  <img src="images/ffe-badge.png" alt="FFE Badge" width="120" /> 
+  <img src="images/ffe-certificate.png" alt="FFE Certificate" width="150" />
+</p>
 
-![FFE Badge](images/ffe-badge.png)  
-![FFE Certificate](images/ffe-certificate.png)
+**Foundations of Financial Engineering (FFE) Badge & Certificate – WQU**
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-| Project | Description | Folder | PDF Report |
-|---------|-------------|--------|------------|
-| Financial Asset & Return Analysis | Analyze financial assets, calculate returns, and visualize portfolio performance | `01_Financial_Asset_Return_Analysis` | [Report](01_Financial_Asset_Return_Analysis/report.pdf) |
-| Efficient Frontier & Sharpe Ratio | Optimize portfolio using Efficient Frontier and Sharpe Ratio | `02_Efficient_Frontier_Sharpe_Ratio` | [Report](02_Efficient_Frontier_Sharpe_Ratio/report.pdf) |
-| Portfolio Returns & Variance | Evaluate portfolio returns and variance across multiple assets | `03_Portfolio_Returns_Variance` | [Report](03_Portfolio_Returns_Variance/report.pdf) |
-| Bond Yield Curve Analysis | Analyze government bond yield curves and investment insights | `04_Bond_Yield_Curve_Analysis` | [Report](04_Bond_Yield_Curve_Analysis/report.pdf) |
-| Geospatial Data Analysis | Visualize financial and geospatial data using Python mapping tools | `05_Geospatial_Data_Analysis` | [Report](05_Geospatial_Data_Analysis/report.pdf) |
+<div align="center">
+
+| Project | Preview | GitHub Link | PDF Report |
+|---------|--------|------------|------------|
+| Financial Asset & Return Analysis | <img src="images/financial-asset.png" alt="Financial Asset" width="200"/> | [Repo](https://github.com/solomon-dejenie/financial-asset-return-analysis) | [PDF](link-to-report) |
+| Efficient Frontier & Sharpe Ratio | <img src="images/efficient-frontier.png" alt="Efficient Frontier" width="200"/> | [Repo](https://github.com/solomon-dejenie/efficient-frontier-sharpe) | [PDF](link-to-report) |
+| Portfolio Returns & Variance | <img src="images/portfolio-variance.png" alt="Portfolio Variance" width="200"/> | [Repo](https://github.com/solomon-dejenie/portfolio-returns-variance) | [PDF](link-to-report) |
+| Bond Yield Curve Analysis | <img src="images/bond-yield.png" alt="Bond Yield Curve" width="200"/> | [Repo](https://github.com/solomon-dejenie/bond-yield-curve-analysis) | [PDF](link-to-report) |
+| Geospatial Analysis Dashboard | <img src="images/geospatial.png" alt="Geospatial Dashboard" width="200"/> | [Repo](https://github.com/solomon-dejenie/geospatial-analysis-dashboard) | [PDF](link-to-report) |
+
+</div>
 
 ---
 
@@ -45,10 +51,20 @@
 
 - **LinkedIn:** [linkedin.com/in/solomon-dejenie](your-linkedin)  
 - **Email:** soldm7@yahoo.com  
-- **GitHub:** [github.com/solomon-dejenie](https://github.com/solomon-dejenie)
+- **GitHub:** [github.com/solomon-dejenie](https://github.com/solomon-dejenie)  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=solomon-dejenie&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=solomon-dejenie&show_icons=true&theme=dark" />
+</p>
+
+---
+
+### 🔗 Optional Enhancements
+
+- Add badges for Python, tools, or certifications using [Shields.io](https://shields.io/)  
+- Add more project screenshots for interactivity  
+- Keep layout clean and recruiter-friendly
