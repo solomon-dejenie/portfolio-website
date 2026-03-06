@@ -1,63 +1,71 @@
-# Solomon Dejenie Molla
+# Solomon [Your Last Name] — Portfolio Showcase
 
-**Data Analyst | Python | Financial Analytics**
+## 👋 Introduction
+Welcome to my professional portfolio!  
+I am a Computer Science graduate with a strong foundation in **Financial Engineering** (FFE certified, MSc in progress).  
+This repository highlights my skills in **quantitative finance, programming, and data analysis** through five curated projects.
 
----
-
-## 🎓 Education
-
-- **Bachelor of Science in Computer Science**  
-  University Name, Graduation Year (replace with actual)  
-
----
-
-## 🏅 Certifications
-
-- **FFE (Financial Fundamentals Expert) Badge**  
-- **FFE Certificate**  
-
-![FFE Badge](link-to-your-badge-image)  
-![FFE Certificate](link-to-your-certificate-image)
+Each project includes:
+- **Jupyter Notebook (.ipynb)** with code + outputs
+- **PDF export** for recruiter-friendly review
+- **README.md** with project summary and visuals
 
 ---
 
-## 📂 Projects
+## 📑 Projects Overview
 
-| Project | Description | GitHub Link | PDF Report |
-|---------|-------------|------------|------------|
-| Financial Asset & Return Analysis | Analyze financial assets, calculate returns, and visualize portfolio performance | [Repo](https://github.com/solomon-dejenie/financial-asset-return-analysis) | [PDF](link-to-report) |
-| Efficient Frontier & Sharpe Ratio | Optimize portfolio using Efficient Frontier and Sharpe Ratio analysis | [Repo](https://github.com/solomon-dejenie/efficient-frontier-sharpe) | [PDF](link-to-report) |
-| Portfolio Returns & Variance | Evaluate portfolio returns and variance across multiple assets | [Repo](https://github.com/solomon-dejenie/portfolio-returns-variance) | [PDF](link-to-report) |
-| Bond Yield Curve Analysis | Analyze government bond yield curves and investment insights | [Repo](https://github.com/solomon-dejenie/bond-yield-curve-analysis) | [PDF](link-to-report) |
-| Geospatial Analysis Dashboard | Visualize financial and geospatial data using Python mapping tools | [Repo](https://github.com/solomon-dejenie/geospatial-analysis-dashboard) | [PDF](link-to-report) |
+### 1. Financial Asset & Return Analysis
+- **Tools:** Python (Pandas, NumPy, Matplotlib)  
+- **Focus:** Asset returns, cumulative growth visualization  
+- **Takeaway:** Demonstrates ability to analyze financial datasets and communicate insights.  
+- 📂 [Project Folder](./Project1_FinancialAssetAnalysis)
 
 ---
 
-## 💻 Key Skills
-
-- **Programming & Analysis:** Python, Pandas, NumPy, SQL, Excel  
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI  
-- **Financial Analytics:** Portfolio Returns, Sharpe Ratio, Risk Management, Bond Yield Curve  
-- **Other Tools:** Git, GitHub, Jupyter Notebook, Tableau  
-
----
-
-## 📫 Contact
-
-- **LinkedIn:** [linkedin.com/in/solomon-dejenie](your-linkedin)  
-- **Email:** soldm7@yahoo.com  
-- **GitHub:** [github.com/solomon-dejenie](https://github.com/solomon-dejenie)  
+### 2. Efficient Frontier & Sharpe Ratio
+- **Tools:** PyPortfolioOpt, cvxpy  
+- **Focus:** Portfolio optimization, efficient frontier plots, Sharpe ratio calculation  
+- **Takeaway:** Showcases quantitative finance and optimization expertise.  
+- 📂 [Project Folder](./Project2_EfficientFrontier)
 
 ---
 
-## 📊 GitHub Stats
-
-![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=solomon-dejenie&show_icons=true&theme=dark)
+### 3. Portfolio Returns & Variance
+- **Tools:** Monte Carlo simulations, variance-covariance matrix  
+- **Focus:** Risk-return tradeoffs, distribution plots  
+- **Takeaway:** Highlights risk management and statistical modeling skills.  
+- 📂 [Project Folder](./Project3_PortfolioVariance)
 
 ---
 
-## 🔗 Optional Enhancements
+### 4. Bond Yield Curve Analysis
+- **Tools:** SciPy, interpolation methods  
+- **Focus:** Yield curve fitting, forward rate analysis  
+- **Takeaway:** Demonstrates fixed-income analytics knowledge.  
+- 📂 [Project Folder](./Project4_BondYieldCurve)
 
-- Add badges for certifications, skills, and tools using [Shields.io](https://shields.io/)  
-- Include project preview images/screenshots for a polished look  
-- Keep sections concise and recruiter-friendly
+---
+
+### 5. Geospatial Analysis
+- **Tools:** GeoPandas, Folium, Matplotlib  
+- **Focus:** Interactive maps, spatial clustering  
+- **Takeaway:** Adds breadth with advanced visualization beyond finance.  
+- 📂 [Project Folder](./Project5_GeospatialAnalysis)
+
+---
+
+## 📄 Master Portfolio PDF
+For a recruiter-friendly overview, see:  
+📎 [Master_Portfolio_Showcase.pdf](./Master_Portfolio_Showcase.pdf)
+
+---
+
+## 🔗 Connect With Me
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- GitHub: [github.com/yourprofile](https://github.com/yourprofile)  
+- Upwork: [upwork.com/freelancers/~yourprofile](https://www.upwork.com/freelancers/~yourprofile)
+
+---
+
+## ✨ Branding Tagline
+*"Bridging Computer Science and Financial Engineering to deliver data-driven insights."*
