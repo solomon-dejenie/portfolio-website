@@ -1,4 +1,4 @@
-# Solomon [Your Last Name] — Portfolio Showcase
+# Solomon Molla — Portfolio Showcase
 
 ## 👋 Introduction
 Welcome to my professional portfolio!  
