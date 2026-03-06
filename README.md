@@ -4,6 +4,23 @@
 
 ---
 
+## 🎓 Education
+
+- **Bachelor of Science in Computer Science**  
+  *University Name:* Addis Ababa University, *Graduation Year:* 2009  
+
+---
+
+## 🏅 Certifications
+
+- **Foundations of Financial Engineering (FFE) Badge** – WQU  
+- **FFE Certificate** – WQU  
+
+![FFE Badge](link-to-your-badge-image)  
+![FFE Certificate](link-to-your-certificate-image)
+
+---
+
 ## 📂 Projects
 
 | Project | Description | GitHub Link | PDF Report |
@@ -21,7 +38,7 @@
 - **Programming & Analysis:** Python, Pandas, NumPy, SQL, Excel  
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Power BI  
 - **Financial Analytics:** Portfolio Returns, Sharpe Ratio, Risk Management, Bond Yield Curve  
-- **Other Tools:** Git, GitHub, Jupyter Notebook, Tableau
+- **Other Tools:** Git, GitHub, Jupyter Notebook, Tableau  
 
 ---
 
@@ -29,7 +46,7 @@
 
 - **LinkedIn:** [linkedin.com/in/solomon-dejenie](your-linkedin)  
 - **Email:** soldm7@yahoo.com  
-- **GitHub:** [github.com/solomon-dejenie](https://github.com/solomon-dejenie)
+- **GitHub:** [github.com/solomon-dejenie](https://github.com/solomon-dejenie)  
 
 ---
 
@@ -41,6 +58,6 @@
 
 ## 🔗 Optional Enhancements
 
-- Add badges for tools or certifications using [Shields.io](https://shields.io/)  
-- Include small project preview images/screenshots for visual appeal  
-- Keep sections **concise and recruiter-friendly**
+- Add badges for certifications, skills, and tools using [Shields.io](https://shields.io/)  
+- Include project preview images/screenshots for a polished look  
+- Keep sections concise and recruiter-friendly
